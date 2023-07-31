@@ -191,6 +191,8 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [DHT 爬虫](https://github.com/blueskyz/DHTCrawler)
 * [SimDHT](https://github.com/dontcontactme/simDHT)
 * [p2pspider](https://github.com/dontcontactme/p2pspider)
+* [pyspider:一款开源可视化爬虫工具](https://github.com/binux/pyspider)
+* [Portia:一款开源可视化爬虫工具](https://blog.csdn.net/qq_37275405/article/details/94392157)
 
 
 
